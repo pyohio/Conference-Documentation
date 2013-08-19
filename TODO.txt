@@ -7,4 +7,8 @@ Don't clap near the mic, don't clap when you are holding a mic.
 The audience and the audio system does not need to hear CLAP CLAP CLAP!!!
 I think we need one of the cards to say this, along with "Spean into the mic" and "Don't use the mic as a pointer."
 
+lighting talks intro: call for the next one or two, but announce the current talk and presenter when they are ready to talk.   Otherwise it gets confusing who is talking about what, especially when I am trying to label the videos.
 
+lots of talks start with "is this on?"  make sure the sound check is done before the talk is announced.  Ask the presenter to say the words "sound check."  over and over until everyone is happy.  Make sure their laptop is hooked to the projector, then announce the talk.  This lets attendees talk to each other or whatever as long as possible, it avoids dead air between "talk is starting" and when the talk actually starts.
+
+presenters: don't hang out in front of the screen.  the text/whatever projected onto you is odd, and the real problem: the bright display behind you mucks up the video. 
