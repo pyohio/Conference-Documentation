@@ -64,3 +64,5 @@ nosetests.xml
 
 # Mr Developer
 .mr.developer.cfg
+
+_build

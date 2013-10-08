@@ -1,0 +1,29 @@
+++++++++++++++++++++++++++++++
+Workflows for Talk Submissions
+++++++++++++++++++++++++++++++
+
+Allow talks to have different lengths.  For example:
+
+*   20 minutes
+*   50 minutes
+*   110 minutes
+
+More generally, we want to be able to control the lengths of talks
+without code changes.
+
+----
+
+Allow talks to have numerous presenters.  Make sure that if two or three
+people are working on a talk together, then all of them get emails sent
+by the system during the approval process.
+
+----
+
+The current model involves voting +1, +0, -0, -1 on each talk.  This is
+problematic because it lead to many talks with tied scores.  I'm not
+sure how to avoid this, but maybe we encourage each voter to rank the
+talks from top to bottom.
+
+----
+
+.. vim: set syntax=rst:
