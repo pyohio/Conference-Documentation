@@ -1,0 +1,48 @@
+Using public facing pages, 
+prospective presenters create accounts and submit talk proposals.
+
+Using the shell?
+$ python manage.py create_review_permissions
+reviews | reviews | Can review Tutorials
+reviews | reviews | Can manage Tutorials
+reviews | reviews | Can review General Sessions
+reviews | reviews | Can manage General Sessions
+
+Reviewers create accounts, admin adds them to the reviewer group (how?)
+
+Reviewers go to site's  /dashboard/ page.  
+... (Reviews are not needed to accept a talk.)
+
+staff goes to site's  /dashboard/ page.  
+here is the definition of staff:  admin = request.user.is_staff
+https://github.com/pinax/symposion/blob/master/symposion/reviews/views.py#L184
+
+select a talk, hit "accept" button.
+This will copy the data from proposal to a new presentation:
+post (site)/reviews/review/2/?csrfmiddlewaretoken=abc&result_submit=accept
+this will happen:
+
+proposal.result.status = "accepted"
+proposal.result.save()
+https://github.com/pinax/symposion/blob/master/symposion/reviews/views.py#L242
+
+post_save.connect(accepted_proposal, sender=ProposalResult)
+  if instance.status == "accepted":
+    promote_proposal(instance.proposal)
+
+ presentation = Presentation(
+   title = proposal.title, description = proposal.description,...
+https://github.com/pinax/symposion/blob/master/symposion/reviews/models.py#L318
+
+
+Using the django admin, create one or more of the following:
+Schedule: (seems it is preloaded from fixtures?)
+Slot Kind: "talk" (lower case. seems this should be loaded from fixtures?)
+Days: the days of the event
+Rooms: the names of the rooms and order they will appear on the schedule
+Slots: Select a day, a kind, enter start and end.  (what does Content Overide do?)
+
+Assign the presentation to a slot (either the admin or (site)/schedule/talks/edit/  and then click the PLUS icon, and you should see a pulldown with any
+unassigned presentations.
+
+
