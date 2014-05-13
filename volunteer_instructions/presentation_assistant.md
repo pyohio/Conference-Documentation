@@ -92,6 +92,11 @@ tips
 
 tips from AV:
 
+Presentation assistant should use a mic any time they are addressing 
+the room, not just for things that are to be recoreded.  
+The more audio the sound board operator has to
+work with the better. 
+
 Try to do things in this order:
 
 1. Get the mic on the presenter asap.   The sooner it is on them, the
@@ -108,11 +113,6 @@ seconds.  This is more to confirm everything is functional:  mic
 exists, is in place, is on, batteries are not dead, mic is not muted, 
 and all the equipment between mic and speakers is working.  
 The fine adjustments can happen when they actually start talking.
-
-Presentation assistant should use a mic any time they are addressing 
-the room, not just for things that are to be recoreded.  
-The more audio the sound board operator has to
-work with the better. 
 
 3. If there are any event specific announcements to make, do those before 
 the introduction.  The recording should start with what the talk is about, not a change in the lunch schedule. 
