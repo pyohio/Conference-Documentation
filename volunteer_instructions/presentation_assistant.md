@@ -90,7 +90,11 @@ tips
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
-Get the mic on the presenter asap.   The longer it is on them, the
+tips from AV:
+
+Try to do things in this order:
+
+1. Get the mic on the presenter asap.   The sooner it is on them, the
 better.  If there is a problem, the sooner we know about it the
 better, and some of the problems become apparent after a min or two,
 like head set not hooked to ear correctly and falls off, or it shifts
@@ -98,38 +102,37 @@ and starts rubbing against a beard, or a clip on mic  gets it by a
 swinging name tag.    We want to know about that as they are fiddling
 with projector res, not after their talk has started.
 
-Sound check - get them to say "hello hello hello..." in a somewhat
-normal voice until it comes over the PA.  It should take about 5
-seconds.  This is more to confirm everything is functional.  mic
-exists, is in place, is on, is not muted, and all the equipment
-between mic and speakers speakers is set.  The fine adjustments will
-happen when they actually start talking.
+2. Sound check - get them to say "hello room!" in a somewhat
+normal voice until it comes over the PA.  It should take about 10
+seconds.  This is more to confirm everything is functional:  mic
+exists, is in place, is on, batteries are not dead, mic is not muted, 
+and all the equipment between mic and speakers is working.  
+The fine adjustments can happen when they actually start talking.
 
+Presentation assistant should use a mic any time they are addressing 
+the room, not just for things that are to be recoreded.  
+The more audio the sound board operator has to
+work with the better. 
 
-Introduction:
+3. If there are any event specific announcements to make, do those before 
+the introduction.  The recording should start with what the talk is about, not a change in the lunch schedule. 
 
-Talk into the mic.  The more audio the sound board operator has to
-work with the BETTER!  If you want to stand up and do comedy to fill
-in dead air that would be great.
-
-If there are any event specific announcements to make, do those first,
-and overlap the presenter setting up.  I mainly care because I don't
-want a video starting out with what the lunch schedule is, and
-removing it is hard.  Not kidding.
-
-Confirm they are really ready to go.
+4. Confirm the presenter(s) are really ready to go.
 computer hooked to monitor, opening slide up on projector...
 
-Confirm Video recording folk are ready, which is pretty much make eye
+5. Confirm Video recording folk are ready, which is pretty much make eye
 contact with them. Typically they will be watching the front of the
 room for the talk to start.  If they are not ready they will be heads
 down playing with things and it will probably be apparent they are not
-ready. thumbs up from both sides would be nice.
+ready. 
 
+6. Introduce the presenter. 
 The intro will be recorded, I hope.  It makes a nice start, and helps
 identify what the heck is going on later if there are problems.  "This
 is bob, he is going to talk about foo."
 
+------
+Q&A gets recoreded. 
 
 >     Alternatively, the presentation assistant can bring a microphone to each
 >     person with a question. That reduces time wasted by presenter repeating the
