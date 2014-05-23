@@ -7,7 +7,7 @@ Understand what we expect from an attendee [reporting a harassment incident](/20
 
 Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself. The important information to gather includes the following:
 
- - Identifying information (name/badge number) of the participant doing the harassing
+ - Identifying information (name/description) of the participant doing the harassing
  - The behavior in violation
  - The approximate time of the behavior
  - The circumstances surrounding the incident
