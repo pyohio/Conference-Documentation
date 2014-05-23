@@ -3,7 +3,7 @@ This procedure adopted from the Ada Initiative's guide titled "[Conference anti-
 -------------------------------------------------------------------------------------------------
 Understand our [Code of Conduct](https://www.pyohio.org/2013/code-of-conduct/)
 
-Understand what we expect from an attendee reporting a harassment incident. You can find these guidelines [here](/2013/about/code-of-conduct/harassment-incidents/).
+Understand what we expect from an attendee [reporting a harassment incident](/2013/about/code-of-conduct/harassment-incidents/).
 
 Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself. The important information to gather includes the following:
 
