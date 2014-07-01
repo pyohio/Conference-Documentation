@@ -33,11 +33,11 @@ If a participant engages in behavior that violates this code of conduct, the con
 Contact Information
 -------------------
 
-If you feel harrased, notice someone else's harassment, or have any other concerns, please contact a member of conference staff. Conference staff will wear a "PyOhio Staff" badge.
+If you feel harassed, witness harassment, or have other concerns, please contact a member of conference staff. Conference staff will wear a "PyOhio Staff".
 
-If you consider the matter especially urgent, please immediately call [Jason Green](PyOhio@JasonGreen.Name) at +1 (614) 349-6349 or [Brian Costlow](foo@bar.baz) at +1 (555) 555-5555.
+If you consider the matter especially urgent, please immediately call Jason Green (PyOhio@JasonGreen.Name) at +1 (614) 349-6349 or Brian Costlow (Brian.Costlow@gMail.Com) at +1 (740) 919-1291.
 
-Conference staff will help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+Conference staff will help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 Procedure for Handling Harassment
 ------------------------------------------

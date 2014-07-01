@@ -1,13 +1,19 @@
 This procedure adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
 
 -------------------------------------------------------------------------------------------------
-Understand our [Code of Conduct](https://www.pyohio.org/2013/code-of-conduct/)
 
-Understand what we expect from an attendee [reporting a harassment incident](/2013/about/code-of-conduct/harassment-incidents/).
+Understand our [Code of Conduct](https://www.pyohio.org/2013/code-of-conduct/)
+--------------------------------
+
+Understand what we expect from an attendee reporting a harassment incident. You can find these guidelines here: [/2013/about/code-of-conduct/harassment-incidents/](/2013/about/code-of-conduct/harassment-incidents/)
+
+Taking reports
+--------------
+When taking a report from someone experiencing harassment you should record what they say and reassure them that you take seriously, but avoid making specific promises about what actions the organizers will take. Ask for any other information if the reporter has not volunteered it (such as time, place) but do not pressure them to provide it if they are reluctant. Even if the report lacks important details such as the identity of the person taking the harassing actions, it should still be recorded and passed along to the appropriate staff member(s). If the reporter desires it, arrange for an escort by conference staff or a trusted person, contact a friend, and contact local law enforcement. Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members.
 
 Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself. The important information to gather includes the following:
 
- - Identifying information (name/description) of the participant doing the harassing
+ - Identifying information (name/badge number) of the participant doing the harassing
  - The behavior in violation
  - The approximate time of the behavior
  - The circumstances surrounding the incident
@@ -27,6 +33,7 @@ What NOT to do during an initial response:
  - Do not overtly invite them to withdraw the complaint or mention withdrawal. This suggests that you want them to do so, and constitutes coersion. "Assuming your consent, I will [pursue the complaint]" suggests that you will, by default, pursue it and thus does not coerce withdrawal.
  - Do not ask for their advice on how to deal with the complaint. Conference staff bear this responsibility.
  - Do not offer them input into penalties. Conference staff bear this responsibility.
+ - Do not share details regarding the incident or those involved without specific permission from the victim. This includes sharing with other staff.
 
 Once a staff member has received a report, immediately meet with the conference chair and/or event coordinator. This meeting should attempt to determine the following:
 
@@ -54,9 +61,9 @@ Some things for the staff to consider when dealing with Code of Conduct offender
 - Requiring that the alleged harasser immediately leave the event and not return
 - Banning the alleged harasser from future events (either indefinitely or for a certain time period)
 - Removing a alleged harasser from membership of relevant organizations
-- Publishing an account of the allaged harassment and calling for the resignation of the alleged harasser from their responsibilities (potentially required for incidents of alleged harassment by an event leader or staff who refuse to stand aside from the conflict of interest)
+- Publishing an account of the alleged harassment and calling for the resignation of the alleged harasser from their responsibilities (potentially required for incidents of alleged harassment by an event leader or staff who refuse to stand aside from the conflict of interest)
 
-Give accused attendees an avenue of appeal if desired, but in the meantime the report stands. Do not encourage an apology from the allaged harasser.
+Give accused attendees an avenue of appeal if desired, but in the meantime the report stands. Do not encourage an apology from the alleged harasser.
 
 While respecting the privacy of individual attendees, inform those aware of the initial incident that it violates our policy and that we have taken official action. When speaking to individuals (those aware of the incident, but not involved with the incident) about the incident, omit details.
 
@@ -64,4 +71,4 @@ Depending on the incident, the conference chair, or designate, may decide to mak
 
 If the incident angered some attendees, apologize to them that the incident occurred.  If hard feelings remain, suggest they write an email to the conference chair or to the event coordinator.
 
-If at all possible, make reports directly to [Jason Green](PyOhio@JasonGreen.Name) +1 (614) 349-6349 or [Brian Costlow](foo@bar.baz) at +1 (555) 555-5555.
+If at all possible, make reports directly to [Jason Green](PyOhio@JasonGreen.Name) at +1 (614) 349-6349 or [Brian Costlow](Brian.Costlow@gMail.Com) at +1 (740) 919-1291.
