@@ -47,7 +47,7 @@ Procedure for Handling Harassment
 
 Derivation
 ----------
-This Code of Conduct derived from the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md) which forked the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a Creative Commons Zero license.
+This Code of Conduct derived from the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md) - which forked the example policy from the [Geek Feminism wiki - created by the Ada Initiative and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 
 License
 -------
