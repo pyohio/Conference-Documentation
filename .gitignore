@@ -66,3 +66,5 @@ nosetests.xml
 .mr.developer.cfg
 
 _build
+# OS X
+.DS_Store
